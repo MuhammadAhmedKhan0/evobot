@@ -70,7 +70,8 @@
     "increasedVolume": "<@{author}> 🔊 Subió el volumen de la música, el volumen actual ahora es {volume}%",
     "loopSong": "<@{author}> El bucle actual es {loop}",
     "stopSong": "<@{author}> ⏹ ¡Paró la música!",
-    "leaveChannel": "Saliendo del chat de voz..."
+    "leaveChannel": "Saliendo del chat de voz...",
+    "songNotFound": "Audio Not Found"
   },
   "playlist": {
     "description": "Reproduce una lista de reproducción de youtube",
@@ -160,6 +161,6 @@
     "disabled": "**desactivado**",
     "errorNotChannel": "¡Primero debes unirte a un canal de voz!",
     "cooldownMessage": "Por favor espera {time} segundos antes de volver a usar el comando `{name}`.",
-    "errorCommend": "Se produjo un error con ese comando."
+    "errorCommand": "Se produjo un error con ese comando."
   }
 }
